@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Wavetune",
+    "imageSrc": "projects/project1.png",
+    "description": "A music player which has all the feautures of play,pause ,forward,back etc",
+    "skills": ["React", "Javascript", "CSS","HTML"]
+  },
+  {
+    "title": "Donedash",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a do list app in which u can add ,remove and edit the tasks and mark it when completed",
+    "skills": ["React", "Javascript", "CSS", "HTML"]
+  }
+  
+]
