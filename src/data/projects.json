@@ -6,10 +6,10 @@
     "skills": ["React", "Javascript", "CSS","HTML"]
   },
   {
-    "title": "Donedash",
+    "title": "ChitChat",
     "imageSrc": "projects/project2.png",
-    "description": "This is a do list app in which u can add ,remove and edit the tasks and mark it when completed",
-    "skills": ["React", "Javascript", "CSS", "HTML"]
+    "description": "A chat application which allows users to chat with each other in real time",
+    "skills": ["React", "Javascript", "CSS", "HTML","MongoDB", "Node.js", "Express"]
   }
   
 ]

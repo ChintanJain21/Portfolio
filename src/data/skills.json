@@ -25,7 +25,22 @@
   {
     "title": "C++",
     "imageSrc": "skills/c++.png"
+  },
+   {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.webp"
+  },
+   
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.svg"
+  },
+
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwindcss.svg"
   }
+  
   
 
 ]
